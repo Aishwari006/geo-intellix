@@ -115,8 +115,9 @@ Open your browser and go to: 👉 http://localhost:7860
 
 To Stop: Press Ctrl+C in the terminal.
 
-📂 Project Structure
+### 📂 Project Structure
 
+```text
 geo-intellix/
 ├── backend/                # FastAPI Server (Integration Logic)
 ├── language_engine/
