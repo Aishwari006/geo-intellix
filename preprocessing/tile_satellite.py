@@ -1,1 +1,0 @@
-# script to chop ISRo images into small pieces
